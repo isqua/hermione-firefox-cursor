@@ -1,0 +1,17 @@
+{
+  "name": "hermione-firefox-cursor",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hermione"
+  },
+  "author": "isqua <isqua@isqua.ru>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "hermione": "5.4.0",
+    "hermione-test-repeater": "0.0.8",
+    "html-reporter": "9.4.0"
+  }
+}
